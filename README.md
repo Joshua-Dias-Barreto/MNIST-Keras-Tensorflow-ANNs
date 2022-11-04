@@ -1,2 +1,2 @@
-# My-Deep-Learning-Projects
-This repository is a collection of my deep learning projects 
+# MNIST using Keras Python API with TensorFlow as the backend.
+Artificial Neural Network created using Keras for the MNIST dataset
